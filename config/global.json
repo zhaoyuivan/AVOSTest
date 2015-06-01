@@ -1,8 +1,8 @@
 {
-    "applicationName" : "AVOSDemo",
-    "applicationId": "axzy6fslz96sua8ia60166m5dpfthvl7sjroi4ga71bvhifz",
-    "applicationKey": "xhya5f086oco907fgnxa47dka1ybpckwqiw72f34kohsy1xb",
-    "global": {
-        "avVersion": "0.3.1"
-    }
+  "applicationId" : "axzy6fslz96sua8ia60166m5dpfthvl7sjroi4ga71bvhifz",
+  "applicationKey" : "xhya5f086oco907fgnxa47dka1ybpckwqiw72f34kohsy1xb",
+  "applicationName" : "AVOSDemo",
+  "global" : {
+    "avVersion" : "0.3.1"
+  }
 }
